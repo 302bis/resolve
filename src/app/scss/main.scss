@@ -1,0 +1,50 @@
+
+section{
+  h2{
+    margin-top: 0;
+  }
+    .background-image-uno{
+        background-image: url('http://666a658c624a3c03a6b2-25cda059d975d2f318c03e90bcf17c40.r92.cf1.rackcdn.com/unsplash_527bf56961712_1.JPG');
+        background-size: cover;
+        display: block;
+        height: 600px;
+        left: 0;
+        position: fixed;
+        right: 0;
+        z-index: -1;
+    }
+  .uno{
+    color:#fff;
+      background-color:rgba(0,0,255,0.5);
+      z-index: 1;
+      height: 600px;
+  }
+  .dos{
+    background-color:#fff;
+    height: 300px;
+  }
+  .tres{
+    background-color:#ccc;
+    height: 400px;
+  }
+  .cuatro{
+        background-color:#fff;
+    height: 400px;
+  }
+  .cinco{
+        background-color:#ccc;
+    height: 400px;
+  }
+  .seis{
+        background-color:#fff;
+    height: 400px;
+  }
+  .siete{
+        background-color:#ccc;
+    height: 400px;
+  }
+  .ocho{
+        background-color:#fff;
+    height: 400px;
+  }
+}
